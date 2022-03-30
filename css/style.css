@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+.navbar{
+    background-color: rgb(18,18,20);
+}
+
+
+.quem-somos{
+    background-color: #585858;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: rgb(8, 105, 65);
+}
+
+.servicos{
+    background-color: rgb(65, 1, 90);
+    margin-bottom: 5px;
+}
+
+.bg-footer{
+    background-color: #000000;
+}
